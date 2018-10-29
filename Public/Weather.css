@@ -1,0 +1,39 @@
+body {
+    background: url("http://123anhdep.net/wp-content/uploads/2016/04/thu-gian-cuoi-tuan-voi-tuyen-chon-hinh-anh-canh-dong-hoa-dep-lang-man-duoi-anh-binh-minh-2.jpg");
+    color: red;
+    /* background:  no-repeat center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+.A2{
+    text-align: center;
+}
+.A1{
+    font-size: 16px;
+    background-color:  #9494ff;
+}
+.navbl{
+    padding: 15px;
+    color: black;
+    float: left;
+}
+.boxsearch{
+    border: 1px;
+    padding: 10px;
+    float: right;
+}
+.inputA{
+    width: 350px;
+    height: 45px;
+}
+.A3{
+    padding: 20px;
+}
+.container{
+    text-align: center;
+}
+.C3{
+    padding: 20px;
+}
